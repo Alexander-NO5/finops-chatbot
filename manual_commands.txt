@@ -1,0 +1,2 @@
+py -c "from web_lookup import build_index; build_index()"    >     Rebuild Semantic Index
+web_crawler.py                                               >     Run web_crawler

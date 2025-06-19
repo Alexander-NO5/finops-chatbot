@@ -1,0 +1,29 @@
+[2025-06-12 08:24:44] alexandru.oprisan@company.com
+User: what is saving plna ?
+Bot: Did you mean 'saving plan'?
+A flexible pricing model from AWS that offers significant discounts on compute usage (up to 72%) in exchange for committing to a consistent amount of usage (measured in $/hour) over a term. Savings Plans apply across instance families, sizes, regions, OS, and tenancy.
+----------------------------------------
+[2025-06-12 08:24:47] alexandru.oprisan@company.com
+User: hello
+Bot: Hi there!
+----------------------------------------
+[2025-06-12 08:24:52] alexandru.oprisan@company.com
+User: who are you?
+Bot: I'm a FinOps assistant bot here to help you with cloud related questions.
+----------------------------------------
+[2025-06-12 08:25:53] alexandru.oprisan@company.com
+User: can you help me?
+Bot: Amazon Web Services Support:
+Amazon Bedrock is a fully managed service that helps you evaluate and choose between high-performing FMs from leading AI companies. You can build generative AI applications without the need to manage underlying infrastructure. Amazon Bedrock has many new capabilities: Access to over 100 self-managed models on Amazon Bedrock Marketplace
+🔗 https://support.aws.amazon.com/
+----------------------------------------
+[2025-06-12 08:26:13] alexandru.oprisan@company.com
+User: help me
+Bot: Troubleshooting issues with AWS account creation:
+For additional help, we recommend that you search AWS re:Post for content related to your specific issue. If you still need assistance, contact AWS Support. Document Conventions. Troubleshoot your account. Account closure issues ...
+🔗 https://docs.aws.amazon.com/accounts/latest/reference/troubleshooting_create-account.html
+----------------------------------------
+[2025-06-12 08:30:15] alexandru.oprisan@company.com
+User: exit
+Bot: Goodbye!
+----------------------------------------

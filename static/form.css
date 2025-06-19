@@ -1,0 +1,82 @@
+/* === Form Page Styles === */
+body {
+  background-color: #111;
+  color: #f5f5f5;
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  min-height: 100vh;
+  margin: 0;
+}
+
+.form-container {
+  background-color: #1c1c1c;
+  padding: 30px 25px;
+  border-radius: 12px;
+  box-shadow: 0 0 10px rgba(255, 255, 255, 0.1);
+  width: 100%;
+  max-width: 400px;
+  box-sizing: border-box;
+}
+
+h2, h4 {
+  text-align: center;
+  color: #fff;
+  margin-bottom: 20px;
+}
+
+input[type="email"],
+input[type="text"],
+input[type="password"] {
+  width: 100%;
+  padding: 10px;
+  margin: 8px 0 16px 0;
+  background-color: #333;
+  color: #f5f5f5;
+  border: 1px solid #444;
+  border-radius: 6px;
+  box-sizing: border-box;
+}
+
+input:focus {
+  outline: none;
+  border-color: #888;
+}
+
+button.btn {
+  width: 100%;
+  padding: 12px;
+  background-color: #fff;
+  color: #111;
+  font-weight: bold;
+  border: none;
+  border-radius: 6px;
+  cursor: pointer;
+  transition: background 0.3s;
+}
+
+button.btn:hover {
+  background-color: #ddd;
+}
+
+a {
+  color: #ccc;
+  text-decoration: none;
+}
+
+a:hover {
+  color: #fff;
+  text-decoration: underline;
+}
+
+.message {
+  color: #f44336;
+  text-align: center;
+  margin-bottom: 10px;
+}
+
+.links {
+  text-align: center;
+  margin-top: 10px;
+}

@@ -1,0 +1,84 @@
+{% extends "base.html" %}
+
+{% block title %}FinOpsBot Chat{% endblock %}
+
+{% block head %}
+  <link rel="stylesheet" href="{{ url_for('static', filename='chat.css') }}?v=1">
+{% endblock %}
+
+{% block content %}
+<div class="chat-container">
+  <div class="chat-header">
+    <div class="header-left">
+      <span class="welcome-text">Welcome, {{ user_full_name }}!</span>
+    </div>
+    <div class="header-center">
+      <span class="bot-icon">🤖</span>
+      <span class="bot-name">FOB</span><br>
+      <small class="bot-subtitle">Your FinOps Bot!</small>
+    </div>
+    <div class="header-right">
+      <a href="{{ url_for('logout') }}" class="logout-btn">Logout</a>
+    </div>
+  </div>
+
+  <div class="chat-history">
+    {% for entry in chat_history %}
+      <div class="chat-message-wrapper {{ entry.sender }}">
+        <div class="bubble-meta-top">
+          <span class="bubble-sender">{{ 'You' if entry.sender == 'user' else 'FOB' }}</span>
+          <span class="timestamp">{{ entry.timestamp }}</span>
+        </div>
+        <div class="chat-bubble {{ entry.sender }}">
+          <div class="bubble-content">
+            {% if entry.sender == 'bot' %}
+              <p class="bot-text">{{ entry.message|safe }}</p>
+            {% else %}
+              <p>{{ entry.message }}</p>
+            {% endif %}
+          </div>
+          {% if entry.sender == 'bot' %}
+            <div class="copy-wrapper">
+              <button class="copy-btn" onclick="copyToClipboard(this)">Copy</button>
+            </div>
+          {% endif %}
+        </div>
+      </div>
+    {% endfor %}
+  </div>
+
+  <form method="POST" class="chat-form">
+    <div class="input-tooltip" tabindex="0" aria-label="How the bot works">
+      !
+      <div class="tooltip-text">
+        Ask me anything about FinOps, cloud costs, savings plans, or reserved instances. <br>
+        Use help: to see available commands.
+      </div>
+    </div>
+    <input type="text" name="message" placeholder="Ask something..." required class="chat-input">
+    <button type="submit" class="send-btn">Send</button>
+  </form>
+</div>
+
+<!-- JavaScript to enable "Copy" functionality -->
+<script>
+function copyToClipboard(button) {
+  const bubble = button.closest('.chat-bubble');
+  const textElement = bubble.querySelector('.bot-text');
+  const text = textElement ? textElement.innerText : '';
+
+  if (!text) {
+    alert('Nothing to copy.');
+    return;
+  }
+
+  navigator.clipboard.writeText(text).then(() => {
+    button.innerText = 'Copied!';
+    setTimeout(() => { button.innerText = 'Copy'; }, 2000);
+  }).catch(err => {
+    console.error('Failed to copy:', err);
+    alert('Copy failed.');
+  });
+}
+</script>
+{% endblock %}

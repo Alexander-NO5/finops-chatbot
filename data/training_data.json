@@ -1,0 +1,118 @@
+[
+  {
+    "intent": "greeting",
+    "examples": [
+      "hi",
+      "hello",
+      "hey",
+      "good morning",
+      "good afternoon",
+      "good evening",
+      "hiya",
+      "yo",
+      "howdy"
+    ]
+  },
+  {
+    "intent": "farewell",
+    "examples": [
+      "bye",
+      "goodbye",
+      "see you",
+      "take care",
+      "later",
+      "farewell",
+      "peace out",
+      "see ya",
+      "talk to you later"
+    ]
+  },
+  {
+    "intent": "gratitude",
+    "examples": [
+      "thanks",
+      "thank you",
+      "cheers",
+      "much appreciated",
+      "thanks a lot",
+      "thank you so much",
+      "many thanks"
+    ]
+  },
+  {
+    "intent": "smalltalk",
+    "examples": [
+      "how are you",
+      "how's your day",
+      "what's up",
+      "how have you been",
+      "how\u00e2\u20ac\u2122s it going",
+      "how\u00e2\u20ac\u2122s life"
+    ]
+  },
+  {
+    "intent": "command",
+    "examples": [
+      "help:",
+      "list:",
+      "show: savings",
+      "teach: cloud = computing",
+      "update: savings = best practice",
+      "alias: budget = cost",
+      "delete: test_term"
+    ]
+  },
+  {
+    "intent": "web_lookup",
+    "examples": [
+      "finops definition from aws",
+      "reserved instance on gcp",
+      "savings plan according to finops foundation",
+      "on aws",
+      "in gcp",
+      "according to aws"
+    ]
+  },
+  {
+    "intent": "question",
+    "examples": [
+      "what is a reserved instance",
+      "how does a savings plan work",
+      "why should I use spot instances",
+      "explain aws cost explorer",
+      "who owns FinOps Foundation",
+      "define cloud spend"
+    ]
+  },
+  {
+    "intent": "dynamic_knowledge",
+    "examples": [
+      "ri utilization",
+      "reserved instances",
+      "saving plan",
+      "ec2",
+      "cloudtrail",
+      "showback",
+      "chargeback",
+      "finops",
+      "cloud cost optimization",
+      "cloud governance",
+      "spot instances",
+      "on-demand instances",
+      "aws lambda",
+      "fargate",
+      "cost allocation tags",
+      "multi-cloud",
+      "hybrid cloud",
+      "reserved instance marketplace",
+      "budget alerts",
+      "tagging",
+      "rightsizing",
+      "orphaned resources",
+      "cost anomaly detection",
+      "cloud spend forecast",
+      "cloud financial accountability",
+      "server"
+    ]
+  }
+]

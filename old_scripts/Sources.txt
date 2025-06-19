@@ -1,0 +1,47 @@
+
+    sources = [
+        # FinOps
+        "https://www.finops.org/",
+        "https://www.finops.org/framework/",
+        "https://www.finops.org/community/",
+        "https://www.finops.org/about/",
+        "https://www.finops.org/introduction/what-is-finops/",
+        # GCP
+        "https://cloud.google.com/docs",
+        "https://cloud.google.com/docs/overview",
+        "https://cloud.google.com/docs/product-list",
+        "https://cloud.google.com/docs/security",
+        "https://cloud.google.com/docs/compute-area",
+        "https://cloud.google.com/docs",
+        "https://cloud.google.com/docs/compute",
+        "https://cloud.google.com/docs/storage",
+        "https://cloud.google.com/docs/iam",
+        "https://cloud.google.com/docs/functions",
+        "https://cloud.google.com/docs/databases",
+        "https://cloud.google.com/docs/migration",
+        "https://cloud.google.com/docs/security",
+        "https://cloud.google.com/docs/quotas",
+        "https://cloud.google.com/docs/networking",
+        "https://cloud.google.com/docs/application-hosting",
+        "https://cloud.google.com/docs/ai-ml",
+
+        # AWS (key doc sections)
+        "https://docs.aws.amazon.com/",
+        "https://docs.aws.amazon.com/whitepapers/latest/aws-overview/",
+        "https://docs.aws.amazon.com/whitepapers/latest/aws-overview/compute-services.html",
+        "https://docs.aws.amazon.com/general/latest/gr/rande.html",
+        "https://docs.aws.amazon.com/organizations/latest/userguide/orgs_integrate_services_list.html",
+        "https://docs.aws.amazon.com/IAM/latest/UserGuide/reference_aws-services-that-work-with-iam.html",
+        "https://docs.aws.amazon.com/",
+        "https://docs.aws.amazon.com/ec2/",
+        "https://docs.aws.amazon.com/s3/",
+        "https://docs.aws.amazon.com/iam/",
+        "https://docs.aws.amazon.com/lambda/",
+        "https://docs.aws.amazon.com/rds/",
+        "https://docs.aws.amazon.com/organizations/",
+        "https://docs.aws.amazon.com/service-authorization/",
+        "https://docs.aws.amazon.com/cli/",
+        "https://docs.aws.amazon.com/vpc/",
+        "https://docs.aws.amazon.com/cloudwatch/",
+        "https://docs.aws.amazon.com/elasticbeanstalk/"
+    ]

@@ -1,0 +1,24 @@
+[02:06:40] Q: hey
+[02:06:40] A: Hello!
+
+[02:06:42] Q: how are you?
+[02:06:42] A: I'm here and ready to help! What do you need?
+
+[02:07:12] Q: help:
+[02:07:12] A: <div class="multiline-response">• help: [show this list]<br>• list: [show all known terms]<br>• show: term [see definition or alias target]<br>• exit: [close the bot]<br>You can also ask questions like: 'What is a saving plan?' or 'Explain RI'</div>
+
+[02:07:15] Q: what is a saving plan ?
+[02:07:15] A: Did you mean 'saving plan'?<br>A flexible pricing model from AWS that offers significant discounts on compute usage (up to 72%) in exchange for committing to a consistent amount of usage (measured in $/hour) over a term. Savings Plans apply across instance families, sizes, regions, OS, and tenancy.
+
+[02:07:23] Q: FinOps definition from FinOps Foundation
+[02:07:23] A: <strong>The FinOps Foundation</strong><br>The FinOps Foundation Close Filter: Loading... Events Loading... Community Training Framework FOCUS State of FinOps About Who We Are What is FinOps? Mission & Structure Governing Board Technical Advisory Council Member Organizations Ambassadors Foundation Staff Latest Information Adopting FinOps: Ge...<br><a href='https://www.finops.org/' target='_blank'>https://www.finops.org/</a><br><br><strong>The FinOps Foundation</strong><br>is FinOps FinOps Framework Training and Certification The FinOps Foundation is a project of the Linux Foundation Upcoming Events View All Explore FinOps Topics FinOps for AI FinOps Scopes: Cloud+ Optimizing for Value FinOps is Everyone's Job FOCUS™ FinOps-Aware Product Decisions Public Sector Cloud ...<br><a href='https://www.finops.org/' target='_blank'>https://www.finops.org/</a><br><br><strong>The FinOps Foundation</strong><br>2025 Cloud Announcements: AI Agents and Increased FOCUS™ Support June 4, 2025 FinOps X 2025 Day 2 Keynote: FinOps for AI + AI for FinOps, Cloud Feature Launches June 4, 2025 FinOps X 2025 Day 1 Keynote: Evolution of FinOps: Cloud+ Scopes, SaaS, FOCUS™ 1.2, Cloud VP Panel June 3, 2025 Introducing FOC...<br><a href='https://www.finops.org/' target='_blank'>https://www.finops.org/</a>
+
+[04:47:05] Q: hey
+[04:47:05] A: Hello!
+
+[04:47:07] Q: what is a saving plan ?
+[04:47:07] A: Did you mean 'saving plan'?<br>A flexible pricing model from AWS that offers significant discounts on compute usage (up to 72%) in exchange for committing to a consistent amount of usage (measured in $/hour) over a term. Savings Plans apply across instance families, sizes, regions, OS, and tenancy.
+
+[04:47:10] Q: FinOps definition from FinOps Foundation
+[04:47:10] A: <strong>The FinOps Foundation</strong><br>The FinOps Foundation Close Filter: Loading... Events Loading... Community Training Framework FOCUS State of FinOps About Who We Are What is FinOps? Mission & Structure Governing Board Technical Advisory Council Member Organizations Ambassadors Foundation Staff Latest Information Adopting FinOps: Ge...<br><a href='https://www.finops.org/' target='_blank'>https://www.finops.org/</a><br><br><strong>The FinOps Foundation</strong><br>is FinOps FinOps Framework Training and Certification The FinOps Foundation is a project of the Linux Foundation Upcoming Events View All Explore FinOps Topics FinOps for AI FinOps Scopes: Cloud+ Optimizing for Value FinOps is Everyone's Job FOCUS™ FinOps-Aware Product Decisions Public Sector Cloud ...<br><a href='https://www.finops.org/' target='_blank'>https://www.finops.org/</a><br><br><strong>The FinOps Foundation</strong><br>2025 Cloud Announcements: AI Agents and Increased FOCUS™ Support June 4, 2025 FinOps X 2025 Day 2 Keynote: FinOps for AI + AI for FinOps, Cloud Feature Launches June 4, 2025 FinOps X 2025 Day 1 Keynote: Evolution of FinOps: Cloud+ Scopes, SaaS, FOCUS™ 1.2, Cloud VP Panel June 3, 2025 Introducing FOC...<br><a href='https://www.finops.org/' target='_blank'>https://www.finops.org/</a>
+

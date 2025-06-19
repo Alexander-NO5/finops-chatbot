@@ -1,0 +1,210 @@
+[00:00:57] Q: hey
+[00:00:57] A: Hello!
+
+[00:01:00] Q: how are you?
+[00:01:00] A: I'm just a bot, but I'm here to help you!
+
+[00:01:03] Q: what is a saving plan ?
+[00:01:03] A: Did you mean 'saving plan'?<br>A flexible pricing model from AWS that offers significant discounts on compute usage (up to 72%) in exchange for committing to a consistent amount of usage (measured in $/hour) over a term. Savings Plans apply across instance families, sizes, regions, OS, and tenancy.
+
+[00:01:11] Q: help:
+[00:01:11] A: <div class="multiline-response">• help: [show this list]<br>• list: [show all known terms]<br>• show: term [see definition or alias target]<br>• exit: [close the bot]<br>• teach: term = definition [teach new term]<br>• update: term = new definition [update existing term]<br>• alias: new_term = existing_term [add alias to existing term]<br>• delete: term [delete term and its aliases]<br>You can also ask questions like: 'What is a saving plan?' or 'Explain RI'</div>
+
+[00:01:22] Q: teach: test2 = this is a test!
+[00:01:22] A: Hey, how can I help you today?
+
+[00:01:38] Q: teach: test2 = this is a test!
+[00:01:38] A: Hello!
+
+[00:01:53] Q: delete: test
+[00:01:53] A: Deleted term 'test'.
+
+[00:02:17] Q: update: server = This is a test sentence! Delete later! XDXDXD
+[00:02:17] A: Hello!
+
+[00:02:28] Q: list
+[00:02:28] A: <strong>Class ListDataItemsAsyncPager (1.55.0)  |  Python client library  |  Google Cloud</strong><br>Class ListDataItemsAsyncPager (1.55.0) | Python client library | Google Cloud Skip to main content Documentation Technology areas close AI and ML Application development Application hosting Compute Data analytics and pipelines Databases Distributed, hybrid, and multicloud Generative AI Industry solu...<br><a href='https://cloud.google.com/python/docs/reference/aiplatform/1.55.0/google.cloud.aiplatform_v1beta1.services.dataset_service.pagers.ListDataItemsAsyncPager' target='_blank'>https://cloud.google.com/python/docs/reference/aiplatform/1.55.0/google.cloud.aiplatform_v1beta1.services.dataset_service.pagers.ListDataItemsAsyncPager</a><br><br><strong>Class ListDataPoliciesAsyncPager (0.6.15)  |  Python client library  |  Google Cloud</strong><br>Boost Google Cloud Solution Center Google Cloud Support Google Cloud Tech Youtube Channel / English Deutsch Español – América Latina Français Português – Brasil 中文 – 简体 日本語 한국어 Console Sign in Python Overview Guides Reference Samples Contact Us Start free Documentation Overview Guides Reference Samp...<br><a href='https://cloud.google.com/python/docs/reference/bigquerydatapolicy/latest/google.cloud.bigquery_datapolicies_v1.services.data_policy_service.pagers.ListDataPoliciesAsyncPager' target='_blank'>https://cloud.google.com/python/docs/reference/bigquerydatapolicy/latest/google.cloud.bigquery_datapolicies_v1.services.data_policy_service.pagers.ListDataPoliciesAsyncPager</a><br><br><strong>Class FeatureMap.FloatList.Builder (0.61.0)  |  Java client library  |  Google Cloud</strong><br>Boost Google Cloud Solution Center Google Cloud Support Google Cloud Tech Youtube Channel / English Deutsch Español – América Latina Français Português – Brasil 中文 – 简体 日本語 한국어 Console Sign in Java Overview Guides Reference Samples Contact Us Start free Documentation Overview Guides Reference Sample...<br><a href='https://cloud.google.com/java/docs/reference/google-cloud-recommendations-ai/0.61.0/com.google.cloud.recommendationengine.v1beta1.FeatureMap.FloatList.Builder' target='_blank'>https://cloud.google.com/java/docs/reference/google-cloud-recommendations-ai/0.61.0/com.google.cloud.recommendationengine.v1beta1.FeatureMap.FloatList.Builder</a>
+
+[00:02:32] Q: list:
+[00:02:32] A: <div class="multiline-response"><br>Known terms:<br>- aws lambda<br>- budget alerts<br>- chargeback<br>- cloud cost optimization<br>- cloud financial accountability<br>- cloud governance<br>- cloud spend forecast<br>- cloudtrail<br>- cost allocation tags<br>- cost anomaly detection<br>- ec2<br>- fargate<br>- finops<br>- hybrid cloud<br>- multi-cloud<br>- on-demand instances<br>- orphaned resources<br>- reserved instance marketplace<br>- reserved instances<br>- ri utilization<br>- rightsizing<br>- saving plan<br>- server<br>- showback<br>- spot instances<br>- tagging</div>
+
+[00:08:44] Q: hey
+[00:08:44] A: Hello!
+
+[00:08:46] Q: how are you?
+[00:08:46] A: I'm here and ready to help! What do you need?
+
+[00:08:49] Q: help:
+[00:08:49] A: <div class="multiline-response">• help: [show this list]<br>• list: [show all known terms]<br>• show: term [see definition or alias target]<br>• exit: [close the bot]<br>• teach: term = definition [teach new term]<br>• update: term = new definition [update existing term]<br>• alias: new_term = existing_term [add alias to existing term]<br>• delete: term [delete term and its aliases]<br>You can also ask questions like: 'What is a saving plan?' or 'Explain RI'</div>
+
+[00:08:59] Q: teach: train = test training
+[00:08:59] A: Taught new term: 'train'
+
+[00:09:22] Q: update: train = This is a test training! Delete later!
+[00:09:22] A: Hey, how can I help you today?
+
+[00:10:26] Q: update: train = This is a test training! Delete later!
+[00:10:26] A: Hello!
+
+[00:13:31] Q: hey
+[00:13:31] A: Hi there!
+
+[00:13:42] Q: how are you?
+[00:13:42] A: I'm just a bot, but I'm here to help you!
+
+[00:13:45] Q: help:
+[00:13:45] A: <div class="multiline-response">• help: [show this list]<br>• list: [show all known terms]<br>• show: term [see definition or alias target]<br>• exit: [close the bot]<br>• teach: term = definition [teach new term]<br>• update: term = new definition [update existing term]<br>• alias: new_term = existing_term [add alias to existing term]<br>• delete: term [delete term and its aliases]<br>You can also ask questions like: 'What is a saving plan?' or 'Explain RI'</div>
+
+[00:13:57] Q: delete: train
+[00:13:57] A: Deleted term 'train'.
+
+[00:14:04] Q: teach: train = test training
+[00:14:04] A: Taught new term: 'train'
+
+[00:14:13] Q: update: train = This is a test training! Delete later!
+[00:14:13] A: Hi there!
+
+[00:21:56] Q: hey
+[00:21:56] A: Hi there!
+
+[00:21:58] Q: how are you?
+[00:21:58] A: I'm just a bot, but I'm here to help you!
+
+[00:22:00] Q: help:
+[00:22:00] A: <div class="multiline-response">• help: [show this list]<br>• list: [show all known terms]<br>• show: term [see definition or alias target]<br>• exit: [close the bot]<br>• teach: term = definition [teach new term]<br>• update: term = new definition [update existing term]<br>• alias: new_term = existing_term [add alias to existing term]<br>• delete: term [delete term and its aliases]<br>You can also ask questions like: 'What is a saving plan?' or 'Explain RI'</div>
+
+[00:22:10] Q: delete: train
+[00:22:10] A: Deleted term 'train'.
+
+[00:22:14] Q: teach: train = test training
+[00:22:14] A: Taught new term: 'train'
+
+[00:22:19] Q: update: train = This is a test training! Delete later!
+[00:22:19] A: Hey, how can I help you today?
+
+[00:40:53] Q: hey
+[00:40:53] A: Hey, how can I help you today?
+
+[00:41:01] Q: how are you?
+[00:41:01] A: I'm just a bot, but I'm here to help you!
+
+[00:41:04] Q: help:
+[00:41:04] A: <div class="multiline-response">• help: [show this list]<br>• list: [show all known terms]<br>• show: term [see definition or alias target]<br>• exit: [close the bot]<br>• teach: term = definition [teach new term]<br>• update: term = new definition [update existing term]<br>• alias: new_term = existing_term [add alias to existing term]<br>• delete: term [delete term and its aliases]<br>You can also ask questions like: 'What is a saving plan?' or 'Explain RI'</div>
+
+[00:41:13] Q: delete: train
+[00:41:13] A: Deleted term 'train'.
+
+[00:41:17] Q: teach: train = test training
+[00:41:17] A: Taught new term: 'train'
+
+[00:41:22] Q: update: train = This is a test training! Delete later!
+[00:41:22] A: Hi there!
+
+[00:49:23] Q: hey
+[00:49:23] A: Hey, how can I help you today?
+
+[00:49:25] Q: how are you?
+[00:49:25] A: I'm here and ready to help! What do you need?
+
+[00:49:28] Q: help:
+[00:49:28] A: <div class="multiline-response">• help: [show this list]<br>• list: [show all known terms]<br>• show: term [see definition or alias target]<br>• exit: [close the bot]<br>• teach: term = definition [teach new term]<br>• update: term = new definition [update existing term]<br>• alias: new_term = existing_term [add alias to existing term]<br>• delete: term [delete term and its aliases]<br>You can also ask questions like: 'What is a saving plan?' or 'Explain RI'</div>
+
+[00:49:44] Q: delete: train
+[00:49:44] A: Deleted term 'train'.
+
+[00:49:51] Q: teach: train = test training
+[00:49:51] A: Taught new term: 'train'
+
+[00:49:58] Q: update: train = This is a test training! Delete later!
+[00:49:58] A: Hi there!
+
+[00:57:59] Q: hey
+[00:57:59] A: Hello!
+
+[00:58:01] Q: how are you?
+[00:58:01] A: I'm just a bot, but I'm here to help you!
+
+[00:58:04] Q: help:
+[00:58:04] A: <div class="multiline-response">• help: [show this list]<br>• list: [show all known terms]<br>• show: term [see definition or alias target]<br>• exit: [close the bot]<br>• teach: term = definition [teach new term]<br>• update: term = new definition [update existing term]<br>• alias: new_term = existing_term [add alias to existing term]<br>• delete: term [delete term and its aliases]<br>You can also ask questions like: 'What is a saving plan?' or 'Explain RI'</div>
+
+[00:58:14] Q: delete: train
+[00:58:14] A: Deleted term 'train'.
+
+[00:58:21] Q: teach: train = test training
+[00:58:21] A: Taught new term: 'train'
+
+[00:58:27] Q: update: train = This is a test training! Delete later!
+[00:58:27] A: Updated term: 'train' with new definition.
+
+[00:58:33] Q: what is train
+[00:58:33] A: This is a test training! Delete later!
+
+[00:58:40] Q: FinOps definition from FinOps Foundation
+[00:58:40] A: <strong>The FinOps Foundation</strong><br>The FinOps Foundation Close Filter: Loading... Events Loading... Community Training Framework FOCUS State of FinOps About Who We Are What is FinOps? Mission & Structure Governing Board Technical Advisory Council Member Organizations Ambassadors Foundation Staff Latest Information Adopting FinOps: Ge...<br><a href='https://www.finops.org/' target='_blank'>https://www.finops.org/</a><br><br><strong>The FinOps Foundation</strong><br>is FinOps FinOps Framework Training and Certification The FinOps Foundation is a project of the Linux Foundation Upcoming Events View All Explore FinOps Topics FinOps for AI FinOps Scopes: Cloud+ Optimizing for Value FinOps is Everyone's Job FOCUS™ FinOps-Aware Product Decisions Public Sector Cloud ...<br><a href='https://www.finops.org/' target='_blank'>https://www.finops.org/</a><br><br><strong>The FinOps Foundation</strong><br>2025 Cloud Announcements: AI Agents and Increased FOCUS™ Support June 4, 2025 FinOps X 2025 Day 2 Keynote: FinOps for AI + AI for FinOps, Cloud Feature Launches June 4, 2025 FinOps X 2025 Day 1 Keynote: Evolution of FinOps: Cloud+ Scopes, SaaS, FOCUS™ 1.2, Cloud VP Panel June 3, 2025 Introducing FOC...<br><a href='https://www.finops.org/' target='_blank'>https://www.finops.org/</a>
+
+[00:59:29] Q: Bye
+[00:59:29] A: See you soon!
+
+[04:05:04] Q: hey
+[04:05:04] A: Hi there!
+
+[04:05:06] Q: how are you?
+[04:05:06] A: I'm doing great, thanks for asking! How can I assist you today?
+
+[04:05:10] Q: what is a saving plan ?
+[04:05:10] A: Did you mean 'saving plan'?<br>A flexible pricing model from AWS that offers significant discounts on compute usage (up to 72%) in exchange for committing to a consistent amount of usage (measured in $/hour) over a term. Savings Plans apply across instance families, sizes, regions, OS, and tenancy.
+
+[04:05:22] Q: delete: train
+[04:05:22] A: Deleted term 'train'.
+
+[04:05:39] Q: what is train
+[04:05:39] A: This is a test training! Delete later!
+
+[04:05:45] Q: delete: train
+[04:05:45] A: Deleted term 'train'.
+
+[04:05:56] Q: help:
+[04:05:56] A: <div class="multiline-response">• help: [show this list]<br>• list: [show all known terms]<br>• show: term [see definition or alias target]<br>• exit: [close the bot]<br>• teach: term = definition [teach new term]<br>• update: term = new definition [update existing term]<br>• alias: new_term = existing_term [add alias to existing term]<br>• delete: term [delete term and its aliases]<br>You can also ask questions like: 'What is a saving plan?' or 'Explain RI'</div>
+
+[04:06:13] Q: teach: test = this is a test!
+[04:06:13] A: Taught new term: 'test'
+
+[04:08:18] Q: delete: test
+[04:08:18] A: The term 'test' does not exist.
+
+[04:12:59] Q: hey
+[04:12:59] A: Hi there!
+
+[04:13:03] Q: what is a saving plan ?
+[04:13:03] A: Did you mean 'saving plan'?<br>A flexible pricing model from AWS that offers significant discounts on compute usage (up to 72%) in exchange for committing to a consistent amount of usage (measured in $/hour) over a term. Savings Plans apply across instance families, sizes, regions, OS, and tenancy.
+
+[04:13:11] Q: delete: train
+[04:13:11] A: Deleted term 'train'.
+
+[04:19:08] Q: hey
+[04:19:08] A: Hi there!
+
+[04:19:14] Q: delete: train
+[04:19:14] A: Deleted term 'train'.
+
+[04:22:32] Q: hey
+[04:22:32] A: Hi there!
+
+[04:22:35] Q: what is a saving plan ?
+[04:22:35] A: Did you mean 'saving plan'?<br>A flexible pricing model from AWS that offers significant discounts on compute usage (up to 72%) in exchange for committing to a consistent amount of usage (measured in $/hour) over a term. Savings Plans apply across instance families, sizes, regions, OS, and tenancy.
+
+[04:22:42] Q: delete: train
+[04:22:42] A: Deleted term 'train'.
+
+[04:22:53] Q: teach: train2 = test training
+[04:22:53] A: Taught new term: 'train2'
+
+[04:22:58] Q: what is train2
+[04:22:58] A: test training
+
+[04:23:10] Q: update: train2 = test test test
+[04:23:10] A: Updated term: 'train2' with new definition.
+
+[04:23:15] Q: delete: train2
+[04:23:15] A: Deleted term 'train2'.
+

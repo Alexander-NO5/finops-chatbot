@@ -1,0 +1,30 @@
+{
+    "alexandru.oprisan@company.com": {
+        "full_name": "Alexandru Oprisan",
+        "password": "ecd71870d1963316a97e3ac3408c9835ad8cf0f3c1bc703527c30265534f75ae",
+        "employee_id": "12345",
+        "role": "admin",
+        "verified": true
+    },
+    "oprisannicolae16@stud.ase.ro": {
+        "full_name": "Alex Oprisan",
+        "password": "ecd71870d1963316a97e3ac3408c9835ad8cf0f3c1bc703527c30265534f75ae",
+        "employee_id": "12345",
+        "role": "admin",
+        "verified": true
+    },
+    "rebecadicusara@gmail.com": {
+        "full_name": "Dicusara Rebeca",
+        "password": "ecd71870d1963316a97e3ac3408c9835ad8cf0f3c1bc703527c30265534f75ae",
+        "employee_id": "12092000",
+        "role": "user",
+        "verified": false
+    },
+    "alex_5aug@yahoo.com": {
+        "full_name": "Alexandru Oprisan",
+        "password": "7813d54582ab9722cba420cc7b20a58e65d86e9446359ac23eef76f150c07eb9",
+        "employee_id": "5897",
+        "role": "user",
+        "verified": true
+    }
+}

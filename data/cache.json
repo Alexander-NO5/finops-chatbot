@@ -1,0 +1,42 @@
+{
+  "do you know what is ri::aws": {
+    "result": "Accessing Your RI Purchase Recommendations and Identifying ...:\nUsing this report, you can view your RI coverage at a high level (e.g., across all running hours) or dive into a detailed view by filtering on account, instance type, region, tags, and more. Using this report, you can determine how well you are tracking against your RI coverage goals. You can also dive deeper into your usage by identifying ...\n\ud83d\udd17 https://aws.amazon.com/blogs/enterprise-strategy/accessing-your-ri-purchase-recommendations-and-identifying-opportunities-for-cost-optimization/",
+    "timestamp": "1749704052.2840178"
+  },
+  "can you help me::aws": {
+    "result": "Amazon Web Services Support:\nAmazon Bedrock is a fully managed service that helps you evaluate and choose between high-performing FMs from leading AI companies. You can build generative AI applications without the need to manage underlying infrastructure. Amazon Bedrock has many new capabilities: Access to over 100 self-managed models on Amazon Bedrock Marketplace\n\ud83d\udd17 https://support.aws.amazon.com/",
+    "timestamp": "1749705953.2219214"
+  },
+  "help me::aws": {
+    "result": "Troubleshooting issues with AWS account creation:\nFor additional help, we recommend that you search AWS re:Post for content related to your specific issue. If you still need assistance, contact AWS Support. Document Conventions. Troubleshoot your account. Account closure issues ...\n\ud83d\udd17 https://docs.aws.amazon.com/accounts/latest/reference/troubleshooting_create-account.html",
+    "timestamp": "1749705973.7138078"
+  },
+  "hello::aws": {
+    "result": "Create your first Lambda function - AWS Lambda:\nTo create a Hello world Lambda function with the console. Open the Functions page of the Lambda console. Choose Create function. Select Author from scratch. In the Basic information pane, for Function name, enter myLambdaFunction. For Runtime, choose either Node.js 22 or Python 3.13.\n\ud83d\udd17 https://docs.aws.amazon.com/lambda/latest/dg/getting-started.html",
+    "timestamp": "1750040203.1630566"
+  },
+  "hi::aws": {
+    "result": "HITRUST - Amazon Web Services (AWS):\nThe Health Information Trust Alliance Common Security Framework (HITRUST CSF) incorporates nationally and internationally accepted security frameworks such as ISO27001 and NIST 800-53 to create a comprehensive set of baseline security and privacy controls tailorable to your specific data flows and architectures.\n\ud83d\udd17 https://aws.amazon.com/compliance/hitrust/",
+    "timestamp": "1750040523.2988799"
+  },
+  "help:::aws": {
+    "result": "Amazon Web Services Support:\n\u00a9 2019, Amazon Web Services, Inc. or its affiliates. All rights reserved.\n\ud83d\udd17 https://support.aws.amazon.com/",
+    "timestamp": "1750050656.5818293"
+  },
+  "exit::aws": {
+    "result": "Handling reboots when running commands - AWS Systems Manager:\nThe exit code instructs AWS Systems Manager Agent (SSM Agent) to reboot the managed node, and then restart the script after the reboot completed. Before starting the reboot, SSM Agent informs the Systems Manager service in the cloud that communication will be disrupted during the server reboot. ...\n\ud83d\udd17 https://docs.aws.amazon.com/systems-manager/latest/userguide/send-commands-reboot.html",
+    "timestamp": "1750050959.1290972"
+  },
+  "how are u::aws": {
+    "result": "Amazon EC2 instance types by Region - Amazon EC2:\nFrom June 10, 2025, the U-9tb1, U-12tb1, U-18tb1, and U-24tb1 instance types will no longer be available for new instance launches. If your workload requires a high-memory instance, we recommend that you use a U7i instance type instead. An Amazon EC2 instance is tied to the zone in which it was launched. ...\n\ud83d\udd17 https://docs.aws.amazon.com/ec2/latest/instancetypes/ec2-instance-regions.html",
+    "timestamp": "1750051346.8387268"
+  },
+  "hrey::aws": {
+    "result": "AWS Management Console:\nManage your AWS cloud resources easily through a web-based interface using the AWS Management Console.\n\ud83d\udd17 https://aws.amazon.com/console/",
+    "timestamp": "1750099693.8883379"
+  },
+  "semantic::list": {
+    "result": "<strong>Class ListDataItemsAsyncPager (1.55.0) \u00a0|\u00a0 Python client library \u00a0|\u00a0 Google Cloud</strong><br>Class ListDataItemsAsyncPager (1.55.0) | Python client library | Google Cloud Skip to main content Documentation Technology areas close AI and ML Application development Application hosting Compute Data analytics and pipelines Databases Distributed, hybrid, and multicloud Generative AI Industry solu...<br><a href='https://cloud.google.com/python/docs/reference/aiplatform/1.55.0/google.cloud.aiplatform_v1beta1.services.dataset_service.pagers.ListDataItemsAsyncPager' target='_blank'>https://cloud.google.com/python/docs/reference/aiplatform/1.55.0/google.cloud.aiplatform_v1beta1.services.dataset_service.pagers.ListDataItemsAsyncPager</a><br><br><strong>Class ListDataPoliciesAsyncPager (0.6.15) \u00a0|\u00a0 Python client library \u00a0|\u00a0 Google Cloud</strong><br>Boost Google Cloud Solution Center Google Cloud Support Google Cloud Tech Youtube Channel / English Deutsch Espa\u00f1ol \u2013 Am\u00e9rica Latina Fran\u00e7ais Portugu\u00eas \u2013 Brasil \u4e2d\u6587 \u2013 \u7b80\u4f53 \u65e5\u672c\u8a9e \ud55c\uad6d\uc5b4 Console Sign in Python Overview Guides Reference Samples Contact Us Start free Documentation Overview Guides Reference Samp...<br><a href='https://cloud.google.com/python/docs/reference/bigquerydatapolicy/latest/google.cloud.bigquery_datapolicies_v1.services.data_policy_service.pagers.ListDataPoliciesAsyncPager' target='_blank'>https://cloud.google.com/python/docs/reference/bigquerydatapolicy/latest/google.cloud.bigquery_datapolicies_v1.services.data_policy_service.pagers.ListDataPoliciesAsyncPager</a><br><br><strong>Class FeatureMap.FloatList.Builder (0.61.0) \u00a0|\u00a0 Java client library \u00a0|\u00a0 Google Cloud</strong><br>Boost Google Cloud Solution Center Google Cloud Support Google Cloud Tech Youtube Channel / English Deutsch Espa\u00f1ol \u2013 Am\u00e9rica Latina Fran\u00e7ais Portugu\u00eas \u2013 Brasil \u4e2d\u6587 \u2013 \u7b80\u4f53 \u65e5\u672c\u8a9e \ud55c\uad6d\uc5b4 Console Sign in Java Overview Guides Reference Samples Contact Us Start free Documentation Overview Guides Reference Sample...<br><a href='https://cloud.google.com/java/docs/reference/google-cloud-recommendations-ai/0.61.0/com.google.cloud.recommendationengine.v1beta1.FeatureMap.FloatList.Builder' target='_blank'>https://cloud.google.com/java/docs/reference/google-cloud-recommendations-ai/0.61.0/com.google.cloud.recommendationengine.v1beta1.FeatureMap.FloatList.Builder</a>",
+    "timestamp": "1750280548.3779752"
+  }
+}
