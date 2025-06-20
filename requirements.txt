@@ -1,0 +1,9 @@
+flask
+itsdangerous
+scikit-learn
+sentence-transformers
+faiss-cpu
+numpy
+pandas
+joblib
+email-validator
